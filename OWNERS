@@ -1,0 +1,10 @@
+owners {
+    not-inherit: false
+    approvers: [
+        "mengqy",
+        "zhwang",
+    ]
+    members: [
+        "lilin",
+    ]
+}
